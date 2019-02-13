@@ -1,0 +1,87 @@
+header{
+    background:lightgreen;
+    
+
+}
+body{
+    background: gray;
+    
+}
+p{
+    align:center;
+}
+.entry{
+    align-content: center;
+    margin-right: 95px;
+    padding-bottom: 9px;
+    padding-top: 95px;
+}
+h1{
+    font-display: arial;
+    font: 400; 
+    font-style: inherit;
+}
+ul{
+    display: inline;
+    float: right;
+    text-decoration: none;
+    margin-right: 95px;
+    
+}
+.comps{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.comps > div{
+    padding: 10px;
+    margin: 20px;
+    padding-right: 400px;
+}
+.dell{
+    text-align: center;
+}
+.samsung{
+    text-align: right;
+}
+.hp{
+    text-align: left;
+}
+.one{
+    align-content: center;
+    padding :10px
+}
+video{
+    
+     margin: 0 auto;
+    display: block;
+    width: 560px;
+    align:center;
+    margin: auto;
+}
+nav{
+    float: right;
+ }
+ 
+ li{
+    display: inline-block;
+ }
+ 
+ li a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin-right: 75px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: sans-serif;
+ 
+    /* padding: 15px; */
+ }
+ 
+ nav ul li a:hover{
+    color: rgb(209, 185, 233);
+ }
+ .div{
+     padding-top: 95px;
+ }
